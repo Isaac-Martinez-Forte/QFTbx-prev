@@ -1,0 +1,3 @@
+/home/isaacmf/Descargas/qterminal/qtermwidget/CMakeFiles/dist.dir
+/home/isaacmf/Descargas/qterminal/qtermwidget/CMakeFiles/uninstall.dir
+/home/isaacmf/Descargas/qterminal/qtermwidget/CMakeFiles/qtermwidget5.dir
