@@ -49,7 +49,7 @@ GNU GENERAL PUBLIC LICENSE Version 3
 
 # Authors
 
-Isaac Martínez Forte - <isaac.martinez@um.es>
+Isaac Martínez Forte - <isaac.martinez@upct.es>
 
 Joaquín Cervera López - <jcervera@um.es>
 
